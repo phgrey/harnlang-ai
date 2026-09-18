@@ -1,0 +1,7 @@
+interface:
+  display_name: "Harn LLM & agents"
+  short_description: "LLM calls, structured output, tools and agent_loop in Harn"
+  brand_color: "#7C3AED"
+  default_prompt: "Use $harn-llm-agents to build this agent in Harn."
+policy:
+  allow_implicit_invocation: true

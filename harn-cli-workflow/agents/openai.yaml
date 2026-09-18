@@ -1,0 +1,7 @@
+interface:
+  display_name: "Harn CLI workflow"
+  short_description: "Scaffold, verify, run, test and debug Harn projects"
+  brand_color: "#7C3AED"
+  default_prompt: "Use $harn-cli-workflow to set up and verify this Harn project."
+policy:
+  allow_implicit_invocation: true

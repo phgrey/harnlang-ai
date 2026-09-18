@@ -1,0 +1,7 @@
+interface:
+  display_name: "Harn language"
+  short_description: "Write and fix .harn code: syntax, types, modules, errors, concurrency"
+  brand_color: "#7C3AED"
+  default_prompt: "Use $harn-language to write or fix this Harn code, then run harn fmt, check and lint."
+policy:
+  allow_implicit_invocation: true

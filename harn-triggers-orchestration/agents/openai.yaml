@@ -1,0 +1,7 @@
+interface:
+  display_name: "Harn triggers & orchestrator"
+  short_description: "Triggers, connectors, cron/webhooks and orchestrator serving"
+  brand_color: "#7C3AED"
+  default_prompt: "Use $harn-triggers-orchestration to wire this Harn project to external events."
+policy:
+  allow_implicit_invocation: true
